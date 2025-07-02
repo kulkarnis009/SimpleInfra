@@ -1,14 +1,3 @@
-# Welcome to your CDK C# project!
+# Welcome to my IaC (Infrastructure as Code) using AWS CDK (AWS Code Development Kit) in C# project!
 
-This is a blank project for CDK development with C#.
-
-The `cdk.json` file tells the CDK Toolkit how to execute your app.
-
-It uses the [.NET CLI](https://docs.microsoft.com/dotnet/articles/core/) to compile and execute your project.
-
-## Useful commands
-
-* `dotnet build src` compile this app
-* `cdk deploy`       deploy this stack to your default AWS account/region
-* `cdk diff`         compare deployed stack with current state
-* `cdk synth`        emits the synthesized CloudFormation template
+It is a basic environment setup. I have added configurations to add 1 vpc, 2 EC2 instances and 2 S3 buckets and deployed it on mu AWWS account. Please pull the code and follow the instruction below.
